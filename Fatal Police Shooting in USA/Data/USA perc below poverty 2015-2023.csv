@@ -1,0 +1,467 @@
+,state,year,pop_below_poverty
+0,Alabama,2015,0.185
+1,Alaska,2015,0.103
+2,Arizona,2015,0.174
+3,Arkansas,2015,0.191
+4,California,2015,0.153
+5,Colorado,2015,0.115
+6,Connecticut,2015,0.105
+7,Delaware,2015,0.124
+8,District of Columbia,2015,0.173
+9,Florida,2015,0.157
+10,Georgia,2015,0.17
+11,Hawaii,2015,0.106
+12,Idaho,2015,0.151
+13,Illinois,2015,0.136
+14,Indiana,2015,0.145
+15,Iowa,2015,0.122
+16,Kansas,2015,0.13
+17,Kentucky,2015,0.185
+18,Louisiana,2015,0.196
+19,Maine,2015,0.134
+20,Maryland,2015,0.097
+21,Massachusetts,2015,0.115
+22,Michigan,2015,0.158
+23,Minnesota,2015,0.102
+24,Mississippi,2015,0.22
+25,Missouri,2015,0.148
+26,Montana,2015,0.146
+27,Nebraska,2015,0.126
+28,Nevada,2015,0.147
+29,New Hampshire,2015,0.082
+30,New Jersey,2015,0.108
+31,New Mexico,2015,0.204
+32,New York,2015,0.154
+33,North Carolina,2015,0.164
+34,North Dakota,2015,0.11
+35,Ohio,2015,0.148
+36,Oklahoma,2015,0.161
+37,Oregon,2015,0.154
+38,Pennsylvania,2015,0.132
+39,Rhode Island,2015,0.139
+40,South Carolina,2015,0.166
+41,South Dakota,2015,0.137
+42,Tennessee,2015,0.167
+43,Texas,2015,0.159
+44,Utah,2015,0.113
+45,Vermont,2015,0.102
+46,Virginia,2015,0.112
+47,Washington,2015,0.122
+48,West Virginia,2015,0.179
+49,Wisconsin,2015,0.121
+50,Wyoming,2015,0.111
+51,Puerto Rico,2015,0.461
+52,Alabama,2016,0.171
+53,Alaska,2016,0.099
+54,Arizona,2016,0.164
+55,Arkansas,2016,0.172
+56,California,2016,0.143
+57,Colorado,2016,0.11
+58,Connecticut,2016,0.098
+59,Delaware,2016,0.117
+60,District of Columbia,2016,0.186
+61,Florida,2016,0.147
+62,Georgia,2016,0.16
+63,Hawaii,2016,0.093
+64,Idaho,2016,0.144
+65,Illinois,2016,0.13
+66,Indiana,2016,0.141
+67,Iowa,2016,0.118
+68,Kansas,2016,0.121
+69,Kentucky,2016,0.185
+70,Louisiana,2016,0.202
+71,Maine,2016,0.125
+72,Maryland,2016,0.097
+73,Massachusetts,2016,0.104
+74,Michigan,2016,0.15
+75,Minnesota,2016,0.099
+76,Mississippi,2016,0.208
+77,Missouri,2016,0.14
+78,Montana,2016,0.133
+79,Nebraska,2016,0.114
+80,Nevada,2016,0.138
+81,New Hampshire,2016,0.073
+82,New Jersey,2016,0.104
+83,New Mexico,2016,0.198
+84,New York,2016,0.147
+85,North Carolina,2016,0.154
+86,North Dakota,2016,0.107
+87,Ohio,2016,0.146
+88,Oklahoma,2016,0.163
+89,Oregon,2016,0.133
+90,Pennsylvania,2016,0.129
+91,Rhode Island,2016,0.128
+92,South Carolina,2016,0.153
+93,South Dakota,2016,0.133
+94,Tennessee,2016,0.158
+95,Texas,2016,0.156
+96,Utah,2016,0.102
+97,Vermont,2016,0.119
+98,Virginia,2016,0.11
+99,Washington,2016,0.113
+100,West Virginia,2016,0.179
+101,Wisconsin,2016,0.118
+102,Wyoming,2016,0.113
+103,Puerto Rico,2016,0.435
+104,Alabama,2017,0.169
+105,Alaska,2017,0.111
+106,Arizona,2017,0.149
+107,Arkansas,2017,0.164
+108,California,2017,0.133
+109,Colorado,2017,0.103
+110,Connecticut,2017,0.096
+111,Delaware,2017,0.136
+112,District of Columbia,2017,0.166
+113,Florida,2017,0.14
+114,Georgia,2017,0.149
+115,Hawaii,2017,0.095
+116,Idaho,2017,0.128
+117,Illinois,2017,0.126
+118,Indiana,2017,0.135
+119,Iowa,2017,0.107
+120,Kansas,2017,0.119
+121,Kentucky,2017,0.172
+122,Louisiana,2017,0.197
+123,Maine,2017,0.111
+124,Maryland,2017,0.093
+125,Massachusetts,2017,0.105
+126,Michigan,2017,0.142
+127,Minnesota,2017,0.095
+128,Mississippi,2017,0.198
+129,Missouri,2017,0.134
+130,Montana,2017,0.125
+131,Nebraska,2017,0.108
+132,Nevada,2017,0.13
+133,New Hampshire,2017,0.077
+134,New Jersey,2017,0.1
+135,New Mexico,2017,0.197
+136,New York,2017,0.141
+137,North Carolina,2017,0.147
+138,North Dakota,2017,0.103
+139,Ohio,2017,0.14
+140,Oklahoma,2017,0.158
+141,Oregon,2017,0.132
+142,Pennsylvania,2017,0.125
+143,Rhode Island,2017,0.116
+144,South Carolina,2017,0.154
+145,South Dakota,2017,0.13
+146,Tennessee,2017,0.15
+147,Texas,2017,0.147
+148,Utah,2017,0.097
+149,Vermont,2017,0.113
+150,Virginia,2017,0.106
+151,Washington,2017,0.11
+152,West Virginia,2017,0.191
+153,Wisconsin,2017,0.113
+154,Wyoming,2017,0.113
+155,Puerto Rico,2017,0.444
+156,Alabama,2018,0.168
+157,Alaska,2018,0.109
+158,Arizona,2018,0.14
+159,Arkansas,2018,0.172
+160,California,2018,0.128
+161,Colorado,2018,0.096
+162,Connecticut,2018,0.104
+163,Delaware,2018,0.125
+164,District of Columbia,2018,0.162
+165,Florida,2018,0.136
+166,Georgia,2018,0.143
+167,Hawaii,2018,0.088
+168,Idaho,2018,0.118
+169,Illinois,2018,0.121
+170,Indiana,2018,0.131
+171,Iowa,2018,0.112
+172,Kansas,2018,0.12
+173,Kentucky,2018,0.169
+174,Louisiana,2018,0.186
+175,Maine,2018,0.116
+176,Maryland,2018,0.09
+177,Massachusetts,2018,0.1
+178,Michigan,2018,0.141
+179,Minnesota,2018,0.096
+180,Mississippi,2018,0.197
+181,Missouri,2018,0.132
+182,Montana,2018,0.13
+183,Nebraska,2018,0.11
+184,Nevada,2018,0.129
+185,New Hampshire,2018,0.076
+186,New Jersey,2018,0.095
+187,New Mexico,2018,0.195
+188,New York,2018,0.136
+189,North Carolina,2018,0.14
+190,North Dakota,2018,0.107
+191,Ohio,2018,0.139
+192,Oklahoma,2018,0.156
+193,Oregon,2018,0.126
+194,Pennsylvania,2018,0.122
+195,Rhode Island,2018,0.129
+196,South Carolina,2018,0.153
+197,South Dakota,2018,0.131
+198,Tennessee,2018,0.153
+199,Texas,2018,0.149
+200,Utah,2018,0.09
+201,Vermont,2018,0.11
+202,Virginia,2018,0.107
+203,Washington,2018,0.103
+204,West Virginia,2018,0.178
+205,Wisconsin,2018,0.11
+206,Wyoming,2018,0.111
+207,Puerto Rico,2018,0.431
+208,Alabama,2019,0.155
+209,Alaska,2019,0.101
+210,Arizona,2019,0.135
+211,Arkansas,2019,0.162
+212,California,2019,0.118
+213,Colorado,2019,0.093
+214,Connecticut,2019,0.1
+215,Delaware,2019,0.113
+216,District of Columbia,2019,0.135
+217,Florida,2019,0.127
+218,Georgia,2019,0.133
+219,Hawaii,2019,0.093
+220,Idaho,2019,0.112
+221,Illinois,2019,0.115
+222,Indiana,2019,0.119
+223,Iowa,2019,0.112
+224,Kansas,2019,0.114
+225,Kentucky,2019,0.163
+226,Louisiana,2019,0.19
+227,Maine,2019,0.109
+228,Maryland,2019,0.09
+229,Massachusetts,2019,0.094
+230,Michigan,2019,0.13
+231,Minnesota,2019,0.09
+232,Mississippi,2019,0.196
+233,Missouri,2019,0.129
+234,Montana,2019,0.126
+235,Nebraska,2019,0.099
+236,Nevada,2019,0.125
+237,New Hampshire,2019,0.073
+238,New Jersey,2019,0.092
+239,New Mexico,2019,0.182
+240,New York,2019,0.13
+241,North Carolina,2019,0.136
+242,North Dakota,2019,0.106
+243,Ohio,2019,0.131
+244,Oklahoma,2019,0.152
+245,Oregon,2019,0.114
+246,Pennsylvania,2019,0.12
+247,Rhode Island,2019,0.108
+248,South Carolina,2019,0.138
+249,South Dakota,2019,0.119
+250,Tennessee,2019,0.139
+251,Texas,2019,0.136
+252,Utah,2019,0.089
+253,Vermont,2019,0.102
+254,Virginia,2019,0.099
+255,Washington,2019,0.098
+256,West Virginia,2019,0.16
+257,Wisconsin,2019,0.104
+258,Wyoming,2019,0.101
+259,Puerto Rico,2019,0.435
+260,Alabama,2020,0.16
+261,Alaska,2020,0.103
+262,Arizona,2020,0.141
+263,Arkansas,2020,0.161
+264,California,2020,0.126
+265,Colorado,2020,0.098
+266,Connecticut,2020,0.098
+267,Delaware,2020,0.114
+268,District of Columbia,2020,0.155
+269,Florida,2020,0.133
+270,Georgia,2020,0.143
+271,Hawaii,2020,0.093
+272,Idaho,2020,0.119
+273,Illinois,2020,0.12
+274,Indiana,2020,0.129
+275,Iowa,2020,0.111
+276,Kansas,2020,0.114
+277,Kentucky,2020,0.166
+278,Louisiana,2020,0.186
+279,Maine,2020,0.111
+280,Maryland,2020,0.09
+281,Massachusetts,2020,0.098
+282,Michigan,2020,0.137
+283,Minnesota,2020,0.093
+284,Mississippi,2020,0.196
+285,Missouri,2020,0.13
+286,Montana,2020,0.128
+287,Nebraska,2020,0.104
+288,Nevada,2020,0.128
+289,New Hampshire,2020,0.074
+290,New Jersey,2020,0.097
+291,New Mexico,2020,0.186
+292,New York,2020,0.136
+293,North Carolina,2020,0.14
+294,North Dakota,2020,0.105
+295,Ohio,2020,0.136
+296,Oklahoma,2020,0.153
+297,Oregon,2020,0.124
+298,Pennsylvania,2020,0.12
+299,Rhode Island,2020,0.116
+300,South Carolina,2020,0.147
+301,South Dakota,2020,0.128
+302,Tennessee,2020,0.146
+303,Texas,2020,0.142
+304,Utah,2020,0.091
+305,Vermont,2020,0.108
+306,Virginia,2020,0.1
+307,Washington,2020,0.102
+308,West Virginia,2020,0.171
+309,Wisconsin,2020,0.11
+310,Wyoming,2020,0.108
+311,Puerto Rico,2020,0.434
+312,Alabama,2021,0.161
+313,Alaska,2021,0.105
+314,Arizona,2021,0.128
+315,Arkansas,2021,0.163
+316,California,2021,0.123
+317,Colorado,2021,0.097
+318,Connecticut,2021,0.101
+319,Delaware,2021,0.116
+320,District of Columbia,2021,0.165
+321,Florida,2021,0.131
+322,Georgia,2021,0.14
+323,Hawaii,2021,0.112
+324,Idaho,2021,0.11
+325,Illinois,2021,0.121
+326,Indiana,2021,0.122
+327,Iowa,2021,0.111
+328,Kansas,2021,0.117
+329,Kentucky,2021,0.165
+330,Louisiana,2021,0.196
+331,Maine,2021,0.115
+332,Maryland,2021,0.103
+333,Massachusetts,2021,0.104
+334,Michigan,2021,0.131
+335,Minnesota,2021,0.093
+336,Mississippi,2021,0.194
+337,Missouri,2021,0.127
+338,Montana,2021,0.119
+339,Nebraska,2021,0.108
+340,Nevada,2021,0.141
+341,New Hampshire,2021,0.072
+342,New Jersey,2021,0.102
+343,New Mexico,2021,0.184
+344,New York,2021,0.139
+345,North Carolina,2021,0.134
+346,North Dakota,2021,0.111
+347,Ohio,2021,0.134
+348,Oklahoma,2021,0.156
+349,Oregon,2021,0.122
+350,Pennsylvania,2021,0.121
+351,Rhode Island,2021,0.114
+352,South Carolina,2021,0.146
+353,South Dakota,2021,0.123
+354,Tennessee,2021,0.136
+355,Texas,2021,0.142
+356,Utah,2021,0.086
+357,Vermont,2021,0.103
+358,Virginia,2021,0.102
+359,Washington,2021,0.099
+360,West Virginia,2021,0.168
+361,Wisconsin,2021,0.108
+362,Wyoming,2021,0.114
+363,Puerto Rico,2021,0.405
+364,Alabama,2022,0.162
+365,Alaska,2022,0.11
+366,Arizona,2022,0.125
+367,Arkansas,2022,0.168
+368,California,2022,0.122
+369,Colorado,2022,0.094
+370,Connecticut,2022,0.098
+371,Delaware,2022,0.094
+372,District of Columbia,2022,0.133
+373,Florida,2022,0.127
+374,Georgia,2022,0.127
+375,Hawaii,2022,0.102
+376,Idaho,2022,0.107
+377,Illinois,2022,0.119
+378,Indiana,2022,0.126
+379,Iowa,2022,0.11
+380,Kansas,2022,0.12
+381,Kentucky,2022,0.165
+382,Louisiana,2022,0.186
+383,Maine,2022,0.108
+384,Maryland,2022,0.096
+385,Massachusetts,2022,0.104
+386,Michigan,2022,0.134
+387,Minnesota,2022,0.096
+388,Mississippi,2022,0.191
+389,Missouri,2022,0.132
+390,Montana,2022,0.121
+391,Nebraska,2022,0.112
+392,Nevada,2022,0.125
+393,New Hampshire,2022,0.072
+394,New Jersey,2022,0.097
+395,New Mexico,2022,0.176
+396,New York,2022,0.143
+397,North Carolina,2022,0.128
+398,North Dakota,2022,0.115
+399,Ohio,2022,0.134
+400,Oklahoma,2022,0.157
+401,Oregon,2022,0.121
+402,Pennsylvania,2022,0.118
+403,Rhode Island,2022,0.108
+404,South Carolina,2022,0.14
+405,South Dakota,2022,0.125
+406,Tennessee,2022,0.133
+407,Texas,2022,0.14
+408,Utah,2022,0.082
+409,Vermont,2022,0.104
+410,Virginia,2022,0.106
+411,Washington,2022,0.1
+412,West Virginia,2022,0.179
+413,Wisconsin,2022,0.107
+414,Wyoming,2022,0.118
+415,Puerto Rico,2022,0.417
+416,Arizona,2023,0.124
+417,Arkansas,2023,0.157
+418,California,2023,0.12
+419,Colorado,2023,0.093
+420,Connecticut,2023,0.103
+421,Delaware,2023,0.105
+422,District of Columbia,2023,0.14
+423,Florida,2023,0.123
+424,Georgia,2023,0.136
+425,Hawaii,2023,0.101
+426,Idaho,2023,0.101
+427,Illinois,2023,0.116
+428,Indiana,2023,0.123
+429,Iowa,2023,0.113
+430,Kansas,2023,0.112
+431,Kentucky,2023,0.164
+432,Louisiana,2023,0.189
+433,Maine,2023,0.104
+434,Maryland,2023,0.095
+435,Massachusetts,2023,0.104
+436,Michigan,2023,0.135
+437,Minnesota,2023,0.093
+438,Mississippi,2023,0.18
+439,Missouri,2023,0.12
+440,Montana,2023,0.117
+441,Nebraska,2023,0.105
+442,Nevada,2023,0.12
+443,New Hampshire,2023,0.072
+444,New Jersey,2023,0.097
+445,New Mexico,2023,0.178
+446,New York,2023,0.142
+447,North Carolina,2023,0.128
+448,North Dakota,2023,0.098
+449,Ohio,2023,0.133
+450,Oklahoma,2023,0.159
+451,Oregon,2023,0.122
+452,Pennsylvania,2023,0.12
+453,Rhode Island,2023,0.108
+454,South Carolina,2023,0.139
+455,South Dakota,2023,0.118
+456,Tennessee,2023,0.14
+457,Texas,2023,0.137
+458,Utah,2023,0.09
+459,Vermont,2023,0.097
+460,Virginia,2023,0.102
+461,Washington,2023,0.103
+462,West Virginia,2023,0.167
+463,Wisconsin,2023,0.107
+464,Wyoming,2023,0.113
+465,Puerto Rico,2023,0.396
